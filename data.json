@@ -1,0 +1,36 @@
+{
+    "name": "JYP Entertainment",
+    "avatar": "https://pbs.twimg.com/profile_images/1653277586955567104/nYCA0ALv_400x400.png",
+    "links": [
+        {
+            "title": "NMIXX - 2nd EP \"Fe3O4: BREAK\" Trailer: Sense Break Awake",
+            "href": "https://www.youtube.com/watch?v=ynurV4dE9z4&feature=youtu.be&ab_channel=JYPEntertainment",
+            "image": "https://img.youtube.com/vi/ynurV4dE9z4/sddefault.jpg"
+        },
+        {
+            "title": "ITZY \"UNTOUCHABLE\" M/V Teaser 1 @ITZY",
+            "href": "https://www.youtube.com/watch?v=Qr1p_0lRW3U&ab_channel=JYPEntertainment",
+            "image": "https://img.youtube.com/vi/Qr1p_0lRW3U/sddefault.jpg"
+        },
+        {
+            "title": "TWICE \"With YOU-th\" Mood Film",
+            "href": "https://www.youtube.com/watch?v=ztBMZcl3RfI&ab_channel=JYPEntertainment",
+            "image": "https://img.youtube.com/vi/ztBMZcl3RfI/sddefault.jpg"
+        },
+        {
+            "title": "NMIXX 2nd EP “Fe3O4: BREAK” Mixxtery Journal",
+            "href": "https://www.youtube.com/watch?v=_Zboy0sXrxs&ab_channel=JYPEntertainment",
+            "image": "https://img.youtube.com/vi/_Zboy0sXrxs/sddefault.jpg"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/phatnguyen"
+        },
+        {
+            "title": "Facebook",
+            "href": "https://facebook.com/padwhen"
+        }
+    ]
+}
